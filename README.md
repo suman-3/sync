@@ -1,16 +1,16 @@
 # Sync
 
-MySocials is an open-source link-in-bio tool designed to simplify the management of social media links. Built with Next.js, Shadcn, and MongoDB, this project provides a seamless way to share multiple links using a single landing page.
+Sync is an open-source link-in-bio tool designed to simplify the management of social media links. Built with Next.js, Shadcn, and MongoDB, this project provides a seamless way to share multiple links using a single landing page.
 
 ## Preview
 
 - Homepage
 
-![MySocials Preview](/public/homepage.png)
+![Sync Preview](/public/homepage.png)
 
 - User Page
 
-![MySocials Preview](/public/demo.png)
+![Sync Preview](/public/demo.png)
 
 ## Features
 
@@ -29,7 +29,7 @@ MySocials is an open-source link-in-bio tool designed to simplify the management
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/r2hu1/mysocials.git`
+1. Clone the repository: `git clone https://github.com/r2hu1/Sync.git`
 2. Install dependencies: `npm install`
 3. Set up MongoDB and configure the connection string in the application.
 4. Create a `.env.local` file
@@ -41,11 +41,11 @@ To run this project locally, follow these steps:
 1. After setting up the project locally, access the application at `localhost:3000`.
 2. Create an account or log in.
 3. Customize your profile, add social media links, and save changes.
-4. Share your unique MySocials link with your audience.
+4. Share your unique Sync link with your audience.
 
 ## Contribution
 
-Contributions to improve MySocials are welcome! Here's how you can contribute:
+Contributions to improve Sync are welcome! Here's how you can contribute:
 
 - Fork the repository.
 - Create your branch: `git checkout -b feature/YourFeature`

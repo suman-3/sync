@@ -47,10 +47,10 @@ export default function Footer() {
       <p className="text-xs">
         &copy; {new Date().getFullYear()}{" "}
         <Link
-          href={process.env.NEXT_APP_URL}
+          href='https://sync.exions.xyz'
           className="text-primary hover:underline"
         >
-          MySocials
+          Sync
         </Link>{" "}
         All Rights Reserved.
       </p>
